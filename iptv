@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="",ABC_EAST
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AMC_NETWORK
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",American_Heroes_Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Animal_Planet
+http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BBC_AMERICA
+http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BBC_WORLD_NEWS
+http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BEIN_SPORTS
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BET_EAST
+http://fl1.moveonjoy.com/BET_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BET_HER
+http://fl1.moveonjoy.com/BET_HER/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BET_Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BET_SOUL
+http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BIG_TEN_NETWORK
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BOOMERANG
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BOUNCE_TV
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BRAVO
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Buzzr
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CARTOON_NETWORK
+http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBS_SPORTS_NETWORK
+http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
