@@ -194,3 +194,147 @@ http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HGTV
 http://fl1.moveonjoy.com/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",HLN
+http://fl1.moveonjoy.com/HLN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",INSP
+http://fl2.moveonjoy.com/INSP/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",INVESTIGATION_DISCOVERY
+http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ION_TV
+http://fl1.moveonjoy.com/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME
+http://fl1.moveonjoy.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",WGN
+http://fl1.moveonjoy.com/WGN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LOVE_NATURE
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MLB_NETWORK
+http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MOTOR_TREND
+http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MTV
+http://fl1.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MTV_CLASSIC
+http://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MTV_LIVE
+http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MTV_U
+http://fl1.moveonjoy.com/MTV_U/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MTV_2
+http://fl1.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MUCH
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",National_Geographic
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Nat_Geo_Wild
+http://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NBA_TV
+http://fl1.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NBC_EAST/
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NEWS_NATION
+http://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NFL_NETWORK
+http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NFL_RedZone
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NHL_NETWORK
+http://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NICKELODEON
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NICK_JR
+http://fl1.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NICK_MUSIC
+http://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NICKTOONS
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",OUTDOOR_CHANNEL
+http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",OUTSIDE_TV
+http://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Ovation/
+http://fl3.moveonjoy.com/Ovation/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",OWN
+http://fl1.moveonjoy.com/OWN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PARAMOUNT_NETWORK
+http://fl1.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",
+http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Pursuit_Channel
+http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",QVC
+http://fl1.moveonjoy.com/QVC/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",REELZ
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",REVOLT
+http://fl1.moveonjoy.com/REVOLT/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SEC_NETWORK
+http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHOWTIME
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHOWTIME_2
+http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHOWTIME_EXTREME
+http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHOWTIME_NEXT
+http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHOWTIME_WEST?
+http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHOWTIME_WOMEN
+http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SMITHSONIAN_CHANNEL
+http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SPORTSMAN_CHANNEL
+http://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Start_Tv
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
