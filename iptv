@@ -1,7 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="",Loupe
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Stingray Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",ABC_EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AMC+
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ACC Network
+http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",AMC_NETWORK
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -36,6 +48,9 @@ http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BIG_TEN_NETWORK
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Bloomberg
+http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",BOOMERANG
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
@@ -50,6 +65,9 @@ http://fl3.moveonjoy.com/Buzzr/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CARTOON_NETWORK
 http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBS EAT
+http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CBS_SPORTS_NETWORK
 http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -138,6 +156,9 @@ http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FOOD_NETWORK
 http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",FOX News Channel
+http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",FOX_Business_Network
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
@@ -152,6 +173,9 @@ http://fl1.moveonjoy.com/FREE_FORM/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FUSE
 http://fl1.moveonjoy.com/FUSE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",FX_EAST
+http://fl1.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FX_MOVIE
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
@@ -171,7 +195,7 @@ http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HALLMARK_CHANNEL
 http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",HALLMARK_DRAMA
+#EXTINF:-1 tvg-logo="" group-title="",HALLMARK FAMILY
 https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HALLMARK_MOVIES_MYSTERIES
@@ -216,6 +240,9 @@ http://fl1.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",LOVE_NATURE
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",MeTV
+http://fl1.moveonjoy.com/ME_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",MLB_NETWORK
 http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 
@@ -224,6 +251,9 @@ http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MSNBC
+https://tvpass.org/live/MSNBC/hd
 
 #EXTINF:-1 tvg-logo="" group-title="",MTV
 http://fl1.moveonjoy.com/MTV/index.m3u8
@@ -239,9 +269,6 @@ http://fl1.moveonjoy.com/MTV_U/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MTV_2
 http://fl1.moveonjoy.com/MTV_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",MUCH
-http://fl1.moveonjoy.com/MUCH/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",National_Geographic
 http://fl1.moveonjoy.com/National_Geographic/index.m3u8
@@ -285,17 +312,20 @@ http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",OUTSIDE_TV
 http://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Ovation/
+#EXTINF:-1 tvg-logo="" group-title="",Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",OWN
 http://fl1.moveonjoy.com/OWN/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",PARAMOUNT_NETWORK
+#EXTINF:-1 tvg-logo="" group-title="",OXYGEN
 http://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",PARAMOUNT_NETWORK
 http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",POP TV?
+http://fl1.moveonjoy.com/Pop_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Pursuit_Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
@@ -335,6 +365,9 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",SPORTSMAN_CHANNEL
 http://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",STADIUM
+http://fl1.moveonjoy.com/STADIUM/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Start_Tv
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
@@ -411,7 +444,7 @@ http://fl1.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",VH1
 http://fl1.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",VICELAND
+#EXTINF:-1 tvg-logo="" group-title="",VICE
 http://fl1.moveonjoy.com/VICELAND/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",W_NETWORK
@@ -419,6 +452,9 @@ http://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",WE_TV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",THE_WEATHER_CHANNEL
+http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",WORLD_FISHING_NETWORK
 http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
