@@ -72,7 +72,130 @@ http://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/p
 #EXTINF:-1 tvg-logo="" group-title="",TYT
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",ABC_EAST
+#EXTINF:-1 tvg-logo="" group-title="",Bloomberg Quicktake
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Bloomberg TV+
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",DeFiance Media
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Schwab Network
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ABC (KMBC)
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MeTV (Opt-2)
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MeTV (Opt-3)
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ABC (KMIZ)
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ABC (KTVO)
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBS (KTVO)
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Comet (Opt-2)
+https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Comet (Opt-3)
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Ace TV
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Antenna TV (Opt-2)
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBS (KCTV)
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBS (KRCG)
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Charge
+https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Charge?
+http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ROAR
+https://cvtv.cvalley.net/hls/KRCGTBD/KRCGTBD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Circle Country
+https://circle-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CW (KCWE)
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CW (KOMU)
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CW (KYOU)
+https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fox (KQFX)
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fox (KYOU)
+https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fox (WDAF)
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Grit (Opt-2)
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Grit (Opt-3)
+https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MyNetworkTV (KYOU)
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MyNetworkTv (San Antonio)
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Go USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MHz Networks
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NBC (KOMU)
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NBC (KYOU)
+https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NBC (KSHB)
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NBC (KYOU) (Opt-2?)
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Laff
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ABC_EAST (WOLO?)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",AMC+
