@@ -300,7 +300,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",PBS KET World
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Sightline
+#EXTINF:-1 tvg-logo="" group-title="",History Hit
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Story Television
@@ -320,6 +320,120 @@ https://lds-wonder-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Xplore
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",All Reality by We TV
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",All Weddings
+https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Scripps News
+https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Biz TV
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fashion TV
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fashion TV UHD?
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Georgia Hollywood Review
+https://30a-tv.com/gh.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",HollyWire
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Hot Ones
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
+
+#EXTINF:-1 tvg-logo="" group-title="",LiveXLive
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Sidewalks
+https://30a-tv.com/sidewalks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TMZ
+https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AKC TV Meet the Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AKC TV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AWE Encore
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Bark TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fido-tv/FIDO_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Craftsy
+https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Crafty Panda
+https://bpd-cp-stirr.otteravision.com/bpd/cp/cp.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",FNX
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fun Roads
+http://104.143.4.5:2080/funroads.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Localish
+https://apollo.production-public.tubi.io/live/ac-localish.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Luxe Life Discovered
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS Create
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Revry
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Revry 2?
+https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Revry News
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Right Now TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",The Beach Show
+https://30a-tv.com/beachy.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",The Grapevine
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
+
+#EXTINF:-1 tvg-logo="" group-title="",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",ABC_EAST (WOLO?)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
