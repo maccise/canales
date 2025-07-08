@@ -192,6 +192,135 @@ https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Laff
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",PBS (WCVN)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS (MPT)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS (KMOS)
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS (KCSD)
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Popstar! TV
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Talkin' Live Classics TV
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",The Archive
+https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",WGN Chicago
+https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Freebie TV
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Hi-Yah!
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Sony Channel
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Grit Extra
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AFV
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Anger Management Channel
+https://apollo.production-public.tubi.io/live/ac-anger-management2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Comedy TV
+http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",DryBar Comedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LOL! Network
+https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LOL! Standup
+https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Horror Machine
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Cold Case Files
+https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Crime + Investigation
+http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CrimeFlix
+https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Dateline 24-7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",True Crime
+https://i.mjh.nz/.r/discovery-fast4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Forensic Files
+https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",HLN (Opt-2)
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Ion Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TV One Crime + Justice
+https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS KET
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS KET2
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS KET World
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Sightline
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Timeline
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Wonder
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Xplore
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",ABC_EAST (WOLO?)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
@@ -306,7 +435,7 @@ http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY_LIFE
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Discovery_Science
+#EXTINF:-1 tvg-logo="" group-title="",CTV Nature
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY_JR
