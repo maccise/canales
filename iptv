@@ -435,6 +435,138 @@ https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
 #EXTINF:-1 tvg-logo="" group-title="",The Pet Collective
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Bon Appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+
+#EXTINF:-1 tvg-logo="" group-title="",Cooking Panda (Opt-2)
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=8f68c53f-f16a-45dd-b3eb-939325b0385a&device_model=Web&device_width=632&device_height=356&us_privacy=0&gdpr=0&device_language=en&is_lat=0
+
+#EXTINF:-1 tvg-logo="" group-title="",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Beach TV (Florida - Alabama)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Beach TV (Key West - Florida Keys)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Beach TV (Myrtle Beach - Grand Strand)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Go2Travel
+http://go2thls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Baby Shark TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-logo="" group-title="",Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-logo="" group-title="",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS Kids
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Adventure Sports TV
+https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BEK TV Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Choppertown
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Duck Hunting TV?
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fite 24-7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fox Sports
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fubo Sports
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Hard Knocks
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Lacrosse TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Racer (Mav TV)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Racer Select
+https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Nautical Channel
+https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Pac 12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Red Bull TV (Opt-2)
+https://i.mjh.nz/.r/redbull-tv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Rev'n
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Strongman
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Swerve Sports
+https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",The Grappling Network
+https://d1vwakhda3vp6p.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-TheGrapplingNetwork/236.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Unbeaten
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Wired2Fish
+https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Women's Sports Network
+https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",World Poker Tour
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Military History
 http://fl3.moveonjoy.com/Military_History/index.m3u8
 
