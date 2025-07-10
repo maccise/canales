@@ -663,6 +663,21 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Trace Sports Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Motorvision
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
+#EXTINF:-1 tvg-logo="" group-title="",Wellbeing TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",The Cycling Channel
+https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Ridiculous TV
+https://30a-tv.com/feeds/720p/63.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Much
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 
