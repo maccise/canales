@@ -46,9 +46,6 @@ https://sensestv.com:4433/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Tele Liban
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",UNews
-https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 
@@ -87,9 +84,6 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sky News Arabia
 https://stream.skynewsarabia.com/ott/ott.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Sky News Arabia (Portrait)
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",TRT Arabic
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
@@ -125,7 +119,7 @@ https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/60
 
 /////// Arabic Music
 
-#EXTINF:-1 tvg-logo="" group-title="",Aghani Aghani TV
+#EXTINF:-1 tvg-logo="" group-title="",Aghani
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fairuz
@@ -148,19 +142,19 @@ http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NourSat
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",NourSat Alkoddas
+#EXTINF:-1 tvg-logo="" group-title="",NourSat Saints
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",NourSat Alsharq
+#EXTINF:-1 tvg-logo="" group-title="",NourSat Spirit
 https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",NourSat Alshabeb
+#EXTINF:-1 tvg-logo="" group-title="",NourSat Youth
 https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NourSat Holy Land
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",NourSat Mariam
+#EXTINF:-1 tvg-logo="" group-title="",NourSat Music
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
 /////// World News
@@ -186,6 +180,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-logo="" group-title="",CNBC World
 http://fl1.moveonjoy.com/CNBC_World/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",CNN International
+http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
@@ -207,11 +204,11 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 #EXTINF:-1 tvg-logo="" group-title="",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Sky News (Opt-2)
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/ts-eu-w1-n2/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Sky News (Opt-3)
+#EXTINF:-1 tvg-logo="" group-title="",Sky News International
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Sky News Now
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/ts-eu-w1-n2/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Talk
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
@@ -233,17 +230,14 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Black News Channel
-https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",C-SPAN
 http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",CBS News (Opt-2)
 http://fl1.moveonjoy.com/CBS_News/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBS News 24/7
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_864000.m3u8
@@ -254,13 +248,10 @@ http://fl1.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CNN Headlines
 https://live-media-fly.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master_de.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",CNN International
-http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Fox News Channel
 http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Free Speech Tv
+#EXTINF:-1 tvg-logo="" group-title="",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NBC News Now
@@ -301,11 +292,11 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Bloomberg TV (Opt-2)
-http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Bloomberg TV+ (Opt-2)
+http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cheddar
 https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -342,6 +333,9 @@ https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",AMC
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
@@ -357,10 +351,16 @@ http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BET
 http://fl1.moveonjoy.com/BET_EAST/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Bounce TV
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Bravo
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",CBS (????)
+#EXTINF:-1 tvg-logo="" group-title="",Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBS (WBZ)
 http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CBS (KTVO)
@@ -375,6 +375,12 @@ https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Charge
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Cleo TV
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Comet
 http://fl3.moveonjoy.com/COMET/index.m3u8
 
@@ -387,24 +393,6 @@ https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Cozi TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Discovery Family
-http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",E Entertainment Television
-http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Bounce TV
-http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Brat TV
-https://brat-samsung-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Cleo TV
-http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",CW (KCWE)
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 
@@ -414,10 +402,13 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CW (KYOU)
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Dark Matter TV
-https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Discovery Family
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Fox (????)
+#EXTINF:-1 tvg-logo="" group-title="",E Entertainment Television
+http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Fox (WNYW)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fox (KQFX)
@@ -444,9 +435,6 @@ http://fl1.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Get TV
 http://fl1.moveonjoy.com/GET_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Go USA
-https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Great American Country
 http://fl1.moveonjoy.com/Great_American_Country/index.m3u8
 
@@ -456,7 +444,7 @@ http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Hallmark Family
 https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Ion TV
+#EXTINF:-1 tvg-logo="" group-title="",Ion
 http://fl1.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Ion Plus
@@ -489,13 +477,13 @@ http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Much
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",MyNetworkTV (KYOU)
+#EXTINF:-1 tvg-logo="" group-title="",MyNetworkTV (KZOU)
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",MyNetworkTv (San Antonio)
+#EXTINF:-1 tvg-logo="" group-title="",MyNetworkTv (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",NBC (????)
+#EXTINF:-1 tvg-logo="" group-title="",NBC (WNBC)
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NBC (KOMU)
@@ -504,20 +492,17 @@ https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NBC (KYOU)
 https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",NBC (KSHB)
-https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",NBC (KYOU) (Opt-2)
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NBC (KSHB)
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",OWN
 http://fl1.moveonjoy.com/OWN/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Oxygen
-http://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Paramount Network
 http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
@@ -537,6 +522,9 @@ https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Popstar! TV
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Reelz
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Roar
 https://cvtv.cvalley.net/hls/KRCGTBD/KRCGTBD.m3u8
 
@@ -549,8 +537,14 @@ http://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Syfy
 http://fl1.moveonjoy.com/SYFY/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Talkin' Live Classics TV
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",The Grio
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TLC
 http://fl1.moveonjoy.com/TLC/index.m3u8
@@ -558,7 +552,7 @@ http://fl1.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT
 http://fl1.moveonjoy.com/TNT/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Tru TV
+#EXTINF:-1 tvg-logo="" group-title="",TruTV
 http://fl1.moveonjoy.com/TRU_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TV One
@@ -576,13 +570,10 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",WGN Chicago
 https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",,WGN Chicago (Opt-2)
+#EXTINF:-1 tvg-logo="" group-title="",WGN Chicago (Opt-2)
 http://fl1.moveonjoy.com/WGN/index.m3u8
 
 /////// Movies
-
-#EXTINF:-1 tvg-logo="" group-title="",AMC Network
-https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
@@ -662,9 +653,6 @@ http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Starz Encore Classic
 http://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Talkin' Live Classics TV
-https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
@@ -701,7 +689,7 @@ https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Grit (Opt-3)
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Grit Extra
+#EXTINF:-1 tvg-logo="" group-title="",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",INSP
@@ -711,6 +699,9 @@ http://fl2.moveonjoy.com/INSP/index.m3u8
 http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 /////// Horror
+
+#EXTINF:-1 tvg-logo="" group-title="",Dark Matter TV
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Horror Machine
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
@@ -723,7 +714,7 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Anger Management Channel
 https://apollo.production-public.tubi.io/live/ac-anger-management2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Comedy_Central
+#EXTINF:-1 tvg-logo="" group-title="",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Comedy TV
@@ -769,7 +760,7 @@ http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CrimeFlix
 https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Dateline 24-7
+#EXTINF:-1 tvg-logo="" group-title="",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Hallmark Mystery
@@ -778,20 +769,20 @@ http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HLN
 http://fl1.moveonjoy.com/HLN/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Reelz
-https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HLN (Opt-2)
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Ion Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Oxygen True Crime
+http://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",True Crime
 https://i.mjh.nz/.r/discovery-fast4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Forensic Files
 https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",HLN (Opt-2)
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Ion Mystery
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TV One Crime + Justice
 https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
@@ -881,7 +872,7 @@ https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Fashion TV UHD?
+#EXTINF:-1 tvg-logo="" group-title="",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Georgia Hollywood Review
@@ -960,11 +951,11 @@ http://fl1.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FYI
 http://fl1.moveonjoy.com/FYI/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",FNX
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Fun Roads
 http://104.143.4.5:2080/funroads.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Go USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HGTV
 http://fl1.moveonjoy.com/HGTV/index.m3u8
@@ -1045,7 +1036,7 @@ http://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Travel_Channel
+#EXTINF:-1 tvg-logo="" group-title="",Travel Channel
 http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Travel XP
@@ -1068,7 +1059,7 @@ http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Disney Junior
 http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",DISNEY_XD
+#EXTINF:-1 tvg-logo="" group-title="",Disney XD
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Kartoon Channel
@@ -1127,7 +1118,7 @@ https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Duck Hunting TV?
+#EXTINF:-1 tvg-logo="" group-title="",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",ESPN 2
@@ -1142,7 +1133,7 @@ http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FanDuel TV
 http://fl1.moveonjoy.com/TVG/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Fite 24-7
+#EXTINF:-1 tvg-logo="" group-title="",Fite 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fox Sports
