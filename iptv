@@ -49,7 +49,21 @@ https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 
+/////// Syria
+
+#EXTINF:-1 tvg-logo="" group-title="",LTV
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Syria TV
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Syria TV 2
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+
 /////// Arabic News
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Alam
+https://live2.alalam.ir/alalam.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Al Hiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
@@ -89,8 +103,32 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
 /////// Arabic Entertainment
 
+#EXTINF:-1 tvg-logo="" group-title="",Abu Dhabi TV
+http://dvrfl05.bozztv.com/gin-abudhabitv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBC
+https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBC Drama
+https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBC Sofra
+https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",DMC
+https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",DMC Drama
+https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Dubai TV
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Funoon TV
+https://241600.global.ssl.fastly.net/68175ce05c21676cb509f713/live_8bd95a1028e311f0898871faeff321ef/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MBC 1
 7deae49179172426cbfb3bc5e/index.m3u8
@@ -108,6 +146,33 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e9
 #EXTINF:-1 tvg-logo="" group-title="",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MBC Masr Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MBC Masr USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Movies Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",On Drama
+https://fl1002.bozztv.com/ga-ondrama/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",On E
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Rotana Aflam+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
 
@@ -117,6 +182,34 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 #EXTINF:-1 tvg-logo="" group-title="",Rotana Classic
 https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
 
+/////// Arabic Kids
+
+#EXTINF:-1 tvg-logo="" group-title="",Majid
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Spacetoon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
+/////// Arabic Sports
+
+#EXTINF:-1 tvg-logo="" group-title="",Dubai Racing
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Dubai Racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
 /////// Arabic Music
 
 #EXTINF:-1 tvg-logo="" group-title="",Aghani
@@ -124,6 +217,12 @@ https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8r
 
 #EXTINF:-1 tvg-logo="" group-title="",Fairuz
 https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",M+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Tarab
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",One TV
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
