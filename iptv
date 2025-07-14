@@ -417,6 +417,9 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 /////// Entertainment
 
+#EXTINF:-1 tvg-logo="" group-title="",38 The Spot
+https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",ABC (WOLO)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
@@ -452,6 +455,9 @@ http://fl1.moveonjoy.com/BET_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Bounce TV
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Bounce TV (Opt-2)
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Bravo
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
@@ -546,6 +552,9 @@ https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Ion
 http://fl1.moveonjoy.com/ION_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Ion (Opt-2)
+https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Ion Plus
 http://fl1.moveonjoy.com/ION_Plus/index.m3u8
 
@@ -606,17 +615,20 @@ http://fl1.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Paramount Network
 http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",PBS (KCPT)
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS (KCSD)
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PBS (KMOS)
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",PBS (WCVN)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",PBS (MPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",PBS (KMOS)
-https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",PBS (KCSD)
-https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Popstar! TV
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
