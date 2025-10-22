@@ -8,9 +8,6 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Houston Cam
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/KTRKLive1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Loupe
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Stingray Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
@@ -55,9 +52,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",EuroNews English (Opt-2)
-https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
@@ -143,9 +137,6 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",LiveNOW from Fox
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",LiveNOW from Fox (Opt-2)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MSNBC
@@ -167,25 +158,13 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Real America's Voice
-https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Real America's Voice (Opt-2)
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Reuters
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Scripps News
-https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",The First
 http://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",The Hill TV
-https://jmp2.uk/sam-US3300008FX.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",The Weather Channel
-http://fl41.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TYT
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
@@ -1788,9 +1767,6 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",LBC
-https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",MTV Lebanon
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 
@@ -1820,9 +1796,6 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 
 /////// Arabic Entertainment
 
-#EXTINF:-1 tvg-logo="" group-title="",Abu Dhabi TV
-http://dvrfl05.bozztv.com/gin-abudhabitv/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Aflam
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 
@@ -1831,21 +1804,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/in
 
 #EXTINF:-1 tvg-logo="" group-title="",Bahrain International
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",CBC
-https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",CBC Drama
-https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",CBC Sofra
-https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",DMC
-https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",DMC Drama
-https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
@@ -1869,9 +1827,6 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 #EXTINF:-1 tvg-logo="" group-title="",MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 
@@ -1883,9 +1838,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 
 #EXTINF:-1 tvg-logo="" group-title="",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",MBC Masr 1
-https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
@@ -1902,31 +1854,13 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-logo="" group-title="",Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",On Drama
-https://fl1002.bozztv.com/ga-ondrama/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",On E
-https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Ramez
-https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Rotana Aflam+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Rotana Cinema
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Rotana Classic
-https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
 
 /////// Arabic Kids
 
 #EXTINF:-1 tvg-logo="" group-title="",Majid
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",MBC Gaming
-https://shls-live-enc.edgenextcdn.net/out/v1/8ae5c35ffc5247a58e71a5c86dd31ad6/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
@@ -1971,9 +1905,6 @@ https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/ind
 #EXTINF:-1 tvg-logo="" group-title="",Rabeh Saqer Music
 https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Senses TV
-https://sensestv.com:4433/hls/sensesonline/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Tarab
 https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
@@ -1982,9 +1913,6 @@ https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",One FM (Audio Only)
 https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
 /////// Spanish News
