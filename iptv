@@ -1719,6 +1719,12 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Al Alam
 https://live2.alalam.ir/alalam.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Al Araby
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Araby 2
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Al Hiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 
@@ -1727,6 +1733,12 @@ https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Al Jazeera Live
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Wifak
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
@@ -1764,6 +1776,9 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Al Manar
+https://edge.fastpublish.me/live/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
@@ -1773,14 +1788,20 @@ https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MTV Lebanon
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",NBN
 http://5.9.119.146:8883/nbn/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",OTV
-https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Red TV
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Tele Liban
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",UNews
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
@@ -1830,11 +1851,20 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 #EXTINF:-1 tvg-logo="" group-title="",MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MBC Action
+http://213.57.91.138:8000/play/a05l
+
+#EXTINF:-1 tvg-logo="" group-title="",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
@@ -1863,8 +1893,21 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-logo="" group-title="",Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",National Geographic Abu Dhabi
+http://213.57.91.138:8000/play/a05a
+
 #EXTINF:-1 tvg-logo="" group-title="",Rotana Aflam+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Zee Aflam
+http://213.57.91.138:8000/play/a05s
+
+#EXTINF:-1 tvg-logo="" group-title="",Zee Alwan
+http://213.57.91.138:8000/play/a05t
+
+#EXTINF:-1 tvg-logo="" group-title="",Zee Alwan Egypt
+http://213.57.91.138:8000/play/a05u
+
 
 /////// Arabic Kids
 
@@ -1910,6 +1953,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="" group-title="",MBC FM
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Melody FM Jordan
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Rabeh Saqer Music
 https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
