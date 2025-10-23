@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 1*
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 2*
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 3
+https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 4
+https://fl4.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 31
+https://fl31.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 41*
+https://fl41.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 51
+https://fl51.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 61
+https://fl61.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 71
+https://fl71.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 81
+https://fl81.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SHO 91
+https://fl91.moveonjoy.com/SHOWTIME/index.m3u8
