@@ -2262,8 +2262,11 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTINF:-1 tvg-logo="" group-title="",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",MyTime Movie Network Mexico
+#EXTINF:-1 tvg-logo="" group-title="",MyTime Movie Network México
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MyTime Movie Network España
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic (LATAM)
 https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
