@@ -954,10 +954,10 @@ http://41.205.93.154/ABC/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",C-SPAN
-http://fl61.moveonjoy.com/C-SPAN/index.m3u8
+http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CBS News
-http://fl61.moveonjoy.com/CBS_News/index.m3u8
+http://fl1.moveonjoy.com/CBS_News/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CBS News (Opt-2)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
@@ -966,13 +966,13 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_864000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CNN (Opt-2)
-http://fl61.moveonjoy.com/CNN/index.m3u8
+http://fl1.moveonjoy.com/CNN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CNN Headlines
 https://live-media-fly.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master_de.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fox News Channel
-http://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fox News Channel (Opt-2)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -1043,7 +1043,7 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Bloomberg TV+ (Opt-3)
-http://fl41.moveonjoy.com/BLOOMBERG/index.m3u8
+http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cheddar
 https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -1052,13 +1052,13 @@ https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/
 http://41.205.93.154/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CNBC (Opt-2)
-http://fl41.moveonjoy.com/CNBC/index.m3u8
+http://fl1.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",DeFiance Media
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fox Business Network
-http://fl41.moveonjoy.com/FOX_Business_Network/index.m3u8
+http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fox Business Network (Opt-2)
 http://41.205.93.154/FOXBUSINESS/index.m3u8
@@ -1073,7 +1073,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 /////// Networks
 
 #EXTINF:-1 tvg-logo="" group-title="",ABC (WOLO)
-http://fl41.moveonjoy.com/ABC_EAST/index.m3u8
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",ABC (KMBC)
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
@@ -1088,7 +1088,7 @@ https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 https://livetv-fa.tubi.video/wmur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CBS (WBZ)
-http://fl41.moveonjoy.com/CBSEAST/index.m3u8
+http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CBS (KTVO)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
@@ -1121,7 +1121,7 @@ https://streamer1.nexgen.bz/WPIX/index.m3u8
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fox (WNYW)
-http://fl41.moveonjoy.com/FOX_EAST/index.m3u8
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fox (KQFX)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
@@ -1136,7 +1136,7 @@ https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NBC (WNBC)
-http://fl41.moveonjoy.com/NBC_EAST/index.m3u8
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NBC (KOMU)
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
@@ -1190,22 +1190,22 @@ https://streamer1.nexgen.bz/AMC/index.m3u8
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Antenna TV
-https://fl41.moveonjoy.com/Antenna_TV/index.m3u8
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Antenna TV (Opt-2)
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BBC America
-http://fl41.moveonjoy.com/BBC_AMERICA/index.m3u8
+http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BET
-http://fl41.moveonjoy.com/BET_EAST/index.m3u8
+http://fl1.moveonjoy.com/BET_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BET (Opt-2)
 https://streamer1.nexgen.bz/BET/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Bounce
-http://fl41.moveonjoy.com/BOUNCE_TV/index.m3u8
+http://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Bounce (Opt-2)
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
@@ -1214,7 +1214,7 @@ https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 https://streamer1.nexgen.bz/BOUNCE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Bravo
-http://fl41.moveonjoy.com/BRAVO/index.m3u8
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Bravo (Opt-2)
 https://streamer1.nexgen.bz/BRAVO/index.m3u8
@@ -1226,13 +1226,13 @@ http://41.205.93.154/BRAVO/index.m3u8
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cleo TV
-http://fl41.moveonjoy.com/Cleo_TV/index.m3u8
+http://fl1.moveonjoy.com/Cleo_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CMT
-http://fl41.moveonjoy.com/CMT/index.m3u8
+http://fl1.moveonjoy.com/CMT/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Comet
-http://fl41.moveonjoy.com/COMET/index.m3u8
+http://fl1.moveonjoy.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Comet (Opt-2)
 https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
@@ -1241,16 +1241,16 @@ https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cozi TV
-http://fl41.moveonjoy.com/COZI_TV/index.m3u8
+http://fl1.moveonjoy.com/COZI_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Crave
 https://streamer1.nexgen.bz/CRAVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Discovery Family
-http://fl41.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",E Entertainment Television
-http://fl41.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Electric Now
 https://elec-en.otteravision.com/elec/en/elec_en.m3u8
@@ -1259,52 +1259,52 @@ https://elec-en.otteravision.com/elec/en/elec_en.m3u8
 https://elec-en-stirr.otteravision.com/elec/en/elec_en.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Freeform
-http://fl41.moveonjoy.com/FREE_FORM/index.m3u8
+http://fl1.moveonjoy.com/FREE_FORM/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fuse
-http://fl41.moveonjoy.com/FUSE/index.m3u8
+http://fl1.moveonjoy.com/FUSE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fuse (Opt-2)
 https://streamer1.nexgen.bz/FUSE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FX
-http://fl41.moveonjoy.com/FX/index.m3u8
+http://fl1.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FXX
-http://fl41.moveonjoy.com/FXX/index.m3u8
+http://fl1.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Get TV
-http://fl41.moveonjoy.com/GET_TV/index.m3u8
+http://fl1.moveonjoy.com/GET_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Get TV (Opt-2)
 https://streamer1.nexgen.bz/GET/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Great American Country
-http://fl41.moveonjoy.com/Great_American_Country/index.m3u8
+http://fl1.moveonjoy.com/Great_American_Country/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Hallmark Channel
-http://fl41.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Hallmark Channel (Opt-2)
 https://streamer1.nexgen.bz/HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Hallmark Family
-https://fl41.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Ion
-http://fl41.moveonjoy.com/ION_TV/index.m3u8
+http://fl1.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Ion (Opt-2)
 https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Ion Plus
-http://fl41.moveonjoy.com/ION_Plus/index.m3u8
+http://fl1.moveonjoy.com/ION_Plus/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Lifetime
-http://fl41.moveonjoy.com/LIFETIME/index.m3u8
+http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",LMN
-https://fl41.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",LMN (Opt-2)
 https://streamer1.nexgen.bz/LMN/index.m3u8
@@ -1313,7 +1313,7 @@ https://streamer1.nexgen.bz/LMN/index.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MeTV
-http://fl41.moveonjoy.com/ME_TV/index.m3u8
+http://fl1.moveonjoy.com/ME_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MeTV (Opt-2)
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
@@ -1328,16 +1328,16 @@ https://streamer1.nexgen.bz/ME_TV/index.m3u8
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MTV
-http://fl41.moveonjoy.com/MTV/index.m3u8
+http://fl1.moveonjoy.com/MTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MTV (Opt-2)
 https://streamer1.nexgen.bz/MTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MTV 2
-http://fl41.moveonjoy.com/MTV_2/index.m3u8
+http://fl1.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Much
-http://fl41.moveonjoy.com/MUCH/index.m3u8
+http://fl1.moveonjoy.com/MUCH/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MyNetworkTV (KZOU)
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
@@ -1346,13 +1346,13 @@ https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Ovation
-http://fl41.moveonjoy.com/Ovation/index.m3u8
+http://fl1.moveonjoy.com/Ovation/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",OWN
-http://fl41.moveonjoy.com/OWN/index.m3u8
+http://fl1.moveonjoy.com/OWN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Paramount Network
-http://fl41.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Paramount Network (Opt-2)
 https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
@@ -1364,49 +1364,49 @@ https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 https://cvtv.cvalley.net/hls/KRCGTBD/KRCGTBD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Start TV
-http://fl41.moveonjoy.com/Start_Tv/index.m3u8
+http://fl1.moveonjoy.com/Start_Tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Sundance
-http://fl41.moveonjoy.com/SUNDANCE/index.m3u8
+http://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Syfy
-http://fl41.moveonjoy.com/SYFY/index.m3u8
+http://fl1.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Talkin' Live Classics TV
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TBS
-http://fl41.moveonjoy.com/TBS/index.m3u8
+http://fl1.moveonjoy.com/TBS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TBS (Opt-2)
 https://streamer1.nexgen.bz/TBS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TNT
-http://fl41.moveonjoy.com/TNT/index.m3u8
+http://fl1.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TNT (Opt-2)
 https://streamer1.nexgen.bz/TNT/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TruTV
-http://fl41.moveonjoy.com/TRU_TV/index.m3u8
+http://fl1.moveonjoy.com/TRU_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TruTV (Opt-2)
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TV One
-http://fl41.moveonjoy.com/TV_ONE/index.m3u8
+http://fl1.moveonjoy.com/TV_ONE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",USA
 https://streamer1.nexgen.bz/USA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",VH1
-http://fl41.moveonjoy.com/VH1/index.m3u8
+http://fl1.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",W Network
-http://fl41.moveonjoy.com/W_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",We TV
-http://fl41.moveonjoy.com/WE_TV/index.m3u8
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",We TV (Opt-2)
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
@@ -1415,7 +1415,7 @@ https://streamer1.nexgen.bz/WE_TV/index.m3u8
 https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",WGN Chicago (Opt-2)
-http://fl41.moveonjoy.com/WGN/index.m3u8
+http://fl1.moveonjoy.com/WGN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",YTA
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
@@ -1450,10 +1450,10 @@ https://streamer1.nexgen.bz/CALA_CLASSICS/index.m3u8
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cinemax
-http://fl41.moveonjoy.com/CINEMAX_EAST/index.m3u8
+http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cinemax OuterMax
-http://fl41.moveonjoy.com/OUTER_MAX/index.m3u8
+http://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -1465,34 +1465,34 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/titl
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FX Movie Channel
-http://fl41.moveonjoy.com/FX_MOVIE/index.m3u8
+http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HBO
-http://fl41.moveonjoy.com/HBO/index.m3u8
+http://fl1.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HBO 2
-https://fl41.moveonjoy.com/HBO_2/index.m3u8
+https://fl1.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HBO Comedy
-http://fl41.moveonjoy.com/HBO_COMEDY/index.m3u8
+http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HBO Family
-http://fl41.moveonjoy.com/HBO_FAMILY/index.m3u8
+http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HBO Zone
-http://fl41.moveonjoy.com/HBO_ZONE/index.m3u8
+http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Hi-Yah!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MGM+
-http://fl41.moveonjoy.com/EPIX/index.m3u8
+http://fl1.moveonjoy.com/EPIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MGM+ Hits
-http://fl41.moveonjoy.com/EPIX_2/index.m3u8
+http://fl1.moveonjoy.com/EPIX_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MGM+ Drive-In
-http://fl41.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Movies!
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
@@ -1507,43 +1507,43 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Showtime
-http://fl41.moveonjoy.com/SHOWTIME/index.m3u8
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Showtime (Opt-2)
-http://fl41.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Showtime 2
-http://fl41.moveonjoy.com/SHOWTIME_2/index.m3u8
+http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Showtime Extreme
-http://fl41.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Showtime Next
-http://fl41.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Showtime Women
-http://fl41.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Starz
-http://fl41.moveonjoy.com/STARZ/index.m3u8
+http://fl1.moveonjoy.com/STARZ/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Starz (West)
-http://fl41.moveonjoy.com/STARZ_WEST/index.m3u8
+http://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Starz Comedy
-http://fl41.moveonjoy.com/STARZ_COMEDY/index.m3u8
+http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Starz Edge
-http://fl41.moveonjoy.com/STARZ_EDGE/index.m3u8
+http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Starz Encore Action
-http://fl41.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Starz Encore Classic
-http://fl41.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+http://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TCM
-http://fl41.moveonjoy.com/TCM/index.m3u8
+http://fl1.moveonjoy.com/TCM/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TCM (Opt-2)
 https://streamer1.nexgen.bz/TCM/index.m3u8
@@ -1572,13 +1572,13 @@ https://apollo.production-public.tubi.io/live/ac-anger-management2.m3u8
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Comedy Central
-http://fl41.moveonjoy.com/Comedy_Central/index.m3u8
+http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Comedy Central (Opt-2)
 https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Comedy TV
-http://fl41.moveonjoy.com/Comedy_TV/index.m3u8
+http://fl1.moveonjoy.com/Comedy_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",DryBar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
@@ -1622,13 +1622,13 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 https://circle-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cowboy Channel
-http://fl41.moveonjoy.com/Cowboy_Channel/index.m3u8
+http://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cowboy Movie Channel
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Grit
-http://fl41.moveonjoy.com/GRIT_TV/index.m3u8
+http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Grit (Opt-2)
 https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
@@ -1640,13 +1640,13 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",INSP
-http://fl41.moveonjoy.com/INSP/index.m3u8
+http://fl1.moveonjoy.com/INSP/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Outlaw
 http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Starz Encore Westerns
-http://fl41.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Universal Westerns
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
@@ -1668,7 +1668,7 @@ https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
 /////// Game Show
 
 #EXTINF:-1 tvg-logo="" group-title="",Buzzr
-http://fl41.moveonjoy.com/Buzzr/index.m3u8
+http://fl1.moveonjoy.com/Buzzr/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
@@ -1682,10 +1682,10 @@ https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 /////// Documentary
 
 #EXTINF:-1 tvg-logo="" group-title="",American Heroes Channel
-http://fl41.moveonjoy.com/American_Heroes_Channel/index.m3u8
+http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Animal Planet
-http://fl41.moveonjoy.com/Animal_Planet/index.m3u8
+http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Animal Planet (Opt-2)
 http://41.205.93.154/ANIMALPLANET/index.m3u8
@@ -1694,37 +1694,37 @@ http://41.205.93.154/ANIMALPLANET/index.m3u8
 https://0472.org/hls/cgtnd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CTV Nature
-http://fl41.moveonjoy.com/Discovery_Science/index.m3u8
+http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Destination America
-http://fl41.moveonjoy.com/Destination_America/index.m3u8
+http://fl1.moveonjoy.com/Destination_America/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Discovery Channel
-http://fl41.moveonjoy.com/Discovery_Channel/index.m3u8
+http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",DocuVision
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Documentary/title-DOCUVISION-ENG/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Investigation Discovery
-http://fl41.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Love Nature
-http://fl41.moveonjoy.com/LOVE_NATURE/index.m3u8
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Love Nature (Opt-2)
 https://streamer1.nexgen.bz/LOVE_NATURE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Military History
-http://fl41.moveonjoy.com/Military_History/index.m3u8
+http://fl1.moveonjoy.com/Military_History/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Military Times
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
-http://fl41.moveonjoy.com/National_Geographic/index.m3u8
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NatGeo Wild
-http://fl41.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+http://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",PBS KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
@@ -1739,7 +1739,7 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Smithsonian Channel
-http://fl41.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
@@ -1751,7 +1751,7 @@ https://lds-timeline-plex.amagi.tv/playlist.m3u8
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Vice
-http://fl41.moveonjoy.com/VICELAND/index.m3u8
+http://fl1.moveonjoy.com/VICELAND/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Vice News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
@@ -1780,13 +1780,13 @@ https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
 
 #EXTINF:-1 tvg-logo="" group-title="",Court TV (Opt-2)
-http://fl41.moveonjoy.com/COURT_TV/index.m3u8
+http://fl1.moveonjoy.com/COURT_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Crime 360
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Crime + Investigation
-http://fl41.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+http://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CrimeFlix
 https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
@@ -1798,13 +1798,13 @@ https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Hallmark Mystery
-http://fl41.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Hallmark Mystery (Opt-2)
 https://streamer1.nexgen.bz/HMM/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HLN
-http://fl41.moveonjoy.com/HLN/index.m3u8
+http://fl1.moveonjoy.com/HLN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HLN (Opt-2)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
@@ -1822,13 +1822,13 @@ https://cdn.lawandcrime.net/rewind/playlist.m3u8
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Oxygen True Crime
-http://fl41.moveonjoy.com/OXYGEN/index.m3u8
+http://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Reelz
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Reelz (Opt-2)
-https://fl41.moveonjoy.com/REELZ/index.m3u8
+https://fl1.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",True Crime
 https://i.mjh.nz/.r/discovery-fast4.m3u8
@@ -1892,13 +1892,13 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Stories by AMC
-https://fl41.moveonjoy.com/AMC_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",The Nest
 https://streamer2.nexgen.bz/THE_NEST/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TLC
-http://fl41.moveonjoy.com/TLC/index.m3u8
+http://fl1.moveonjoy.com/TLC/index.m3u8
 
 /////// Lifestyle
 
@@ -1927,10 +1927,10 @@ https://aweencore-vizio.amagi.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fido-tv/FIDO_SCTE.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BET Her
-http://fl41.moveonjoy.com/BET_HER/index.m3u8
+http://fl1.moveonjoy.com/BET_HER/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BET Soul
-http://fl41.moveonjoy.com/BET_SOUL/index.m3u8
+http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
@@ -1942,10 +1942,10 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 https://bpd-cp-stirr.otteravision.com/bpd/cp/cp.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Discovery Life
-http://fl41.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FYI
-http://fl41.moveonjoy.com/FYI/index.m3u8
+http://fl1.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fun Roads
 http://104.143.4.5:2080/funroads.m3u8
@@ -1957,7 +1957,7 @@ https://bad-badiv-stirr.otteravision.com/bad/badiv/badiv.m3u8
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HGTV
-http://fl41.moveonjoy.com/HGTV/index.m3u8
+http://fl1.moveonjoy.com/HGTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",HGTV (Opt-2)
 https://streamer1.nexgen.bz/HGTV/index.m3u8
@@ -1978,10 +1978,10 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 https://streamer1.nexgen.bz/MAGNOLIA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Magnolia Network (Opt-2)
-http://fl41.moveonjoy.com/DIY/index.m3u8
+http://fl1.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MTV U
-http://fl41.moveonjoy.com/MTV_U/index.m3u8
+http://fl1.moveonjoy.com/MTV_U/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",PBS Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
@@ -1993,7 +1993,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Revolt
-http://fl41.moveonjoy.com/REVOLT/index.m3u8
+http://fl1.moveonjoy.com/REVOLT/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Revry
 https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
@@ -2028,7 +2028,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cooking Channel
-http://fl41.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cooking Channel (Opt-2)
 https://streamer1.nexgen.bz/COOKING/index.m3u8
@@ -2040,7 +2040,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_b
 https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=8f68c53f-f16a-45dd-b3eb-939325b0385a&device_model=Web&device_width=632&device_height=356&us_privacy=0&gdpr=0&device_language=en&is_lat=0
 
 #EXTINF:-1 tvg-logo="" group-title="",Food Network
-http://fl41.moveonjoy.com/FOOD_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Food Network (Opt-2)
 https://streamer1.nexgen.bz/FOOD/index.m3u8
@@ -2066,7 +2066,7 @@ http://go2thls.wns.live/hls/stream.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Travel Channel
-http://fl41.moveonjoy.com/Travel_Channel/index.m3u8
+http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -2080,22 +2080,22 @@ https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Boomerang
-http://fl41.moveonjoy.com/BOOMERANG/index.m3u8
+http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 #EXTINF:-1 tvg-logo="" group-title="",Cartoon Network
-http://fl41.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Disney Channel
-https://fl41.moveonjoy.com/DISNEY/index.m3u8
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Disney Junior
-http://fl41.moveonjoy.com/DISNEY_JR/index.m3u8
+http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Disney XD
-http://fl41.moveonjoy.com/DISNEY_XD/index.m3u8
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
@@ -2113,13 +2113,13 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Nick Jr.
-http://fl41.moveonjoy.com/NICK_JR/index.m3u8
+http://fl1.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Nick Music
-http://fl41.moveonjoy.com/NICK_MUSIC/index.m3u8
+http://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Nick Toons
-http://fl41.moveonjoy.com/NICKTOONS/index.m3u8
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
@@ -2157,7 +2157,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 /////// Sports
 
 #EXTINF:-1 tvg-logo="" group-title="",ACC Network
-http://fl41.moveonjoy.com/ACC_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",ACCDN
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
@@ -2166,7 +2166,7 @@ https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",beIN Sports
-http://fl41.moveonjoy.com/BEIN_SPORTS/index.m3u8
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",beIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
@@ -2178,7 +2178,7 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 http://fl41.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CBS Sports Network
-http://fl41.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Channel Fight
 https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-Nuestra/266.m3u8
@@ -2202,13 +2202,13 @@ https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 http://41.205.93.154/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",ESPN 2
-http://fl41.moveonjoy.com/ESPN_2/index.m3u8
+http://fl1.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",ESPN News
-http://fl41.moveonjoy.com/ESPN_NEWS/index.m3u8
+http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",ESPN U
-http://fl41.moveonjoy.com/ESPN_U/index.m3u8
+http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Equus TV
 https://d2gwqf8gdwq1zs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-EQUUSTV/426.m3u8
@@ -2217,7 +2217,7 @@ https://d2gwqf8gdwq1zs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-ExtremePlus/276.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FanDuel TV
-http://fl41.moveonjoy.com/TVG/index.m3u8
+http://fl1.moveonjoy.com/TVG/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -2268,16 +2268,16 @@ https://lifestyle-rakuten.amagi.tv/playlist.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MLB Network
-http://fl41.moveonjoy.com/MLB_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Motor Trend
-http://fl41.moveonjoy.com/MOTOR_TREND/index.m3u8
+http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 
 #EXTINF:-1 tvg-logo="" group-title="",MSG
-http://fl41.moveonjoy.com/MSG/index.m3u8
+http://fl1.moveonjoy.com/MSG/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Nautical Channel
 https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index.m3u8
@@ -2289,7 +2289,7 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NBA TV
-http://fl41.moveonjoy.com/NBA_TV/index.m3u8
+http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NBA TV Canada
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
@@ -2298,19 +2298,19 @@ http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NFL Network
-http://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NFL RedZone
-http://fl41.moveonjoy.com/NFL_RedZone/index.m3u8
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NHL Network
-http://fl41.moveonjoy.com/NHL_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Outdoor Channel
-http://fl41.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Outside TV
-http://fl41.moveonjoy.com/OUTSIDE_TV/index.m3u8
+http://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Outside TV (Opt-2)
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
@@ -2328,7 +2328,7 @@ https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Pursuit Channel
-http://fl41.moveonjoy.com/Pursuit_Channel/index.m3u8
+http://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
@@ -2352,16 +2352,16 @@ https://i.mjh.nz/.r/redbull-tv.m3u8
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",SEC Network
-http://fl41.moveonjoy.com/SEC_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",SNY
-http://fl41.moveonjoy.com/SNY/index.m3u8
+http://fl1.moveonjoy.com/SNY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Sportsman Channel
-http://fl41.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+http://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Sportsmax 
 https://streamer1.nexgen.bz/SPORTSMAX/index.m3u8
@@ -2370,7 +2370,7 @@ https://streamer1.nexgen.bz/SPORTSMAX/index.m3u8
 https://streamer1.nexgen.bz/SPORTSMAX2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Stadium
-http://fl41.moveonjoy.com/STADIUM/index.m3u8
+http://fl1.moveonjoy.com/STADIUM/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Strongman
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -2388,7 +2388,7 @@ https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Tennis Channel
-http://fl41.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
@@ -2403,19 +2403,19 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TSN 1
-http://fl41.moveonjoy.com/TSN_1/index.m3u8
+http://fl1.moveonjoy.com/TSN_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TSN 2
-http://fl41.moveonjoy.com/TSN_2/index.m3u8
+http://fl1.moveonjoy.com/TSN_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TSN 3
-http://fl41.moveonjoy.com/TSN_3/index.m3u8
+http://fl1.moveonjoy.com/TSN_3/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TSN 4
-http://fl41.moveonjoy.com/TSN_4/index.m3u8
+http://fl1.moveonjoy.com/TSN_4/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TSN 5
-http://fl41.moveonjoy.com/TSN_5/index.m3u8
+http://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
@@ -2427,7 +2427,7 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Willow Cricket
-http://fl41.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+http://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Women's Sports Network
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
@@ -2436,7 +2436,7 @@ https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",World Fishing Network
-http://fl41.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",World of Freesports
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
@@ -2445,7 +2445,7 @@ https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Yes Network
-http://fl41.moveonjoy.com/YES_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
 /////// Music
 
@@ -2456,7 +2456,7 @@ https://30a-tv.com/music.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+http://fl1.moveonjoy.com/BET_Jams/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
@@ -2498,13 +2498,13 @@ https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 https://d2y0xw9ugf4if7.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FEVAMusic/417.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MTV Classic
-http://fl41.moveonjoy.com/MTV_CLASSIC/index.m3u8
+http://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MTV Hits
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="" group-title="",MTV Live
-http://fl41.moveonjoy.com/MTV_LIVE/index.m3u8
+http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
