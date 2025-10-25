@@ -34,6 +34,9 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
@@ -142,6 +145,9 @@ https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
 
 
 ////// LATINO
+
+#EXTINF:-1 tvg-logo="" group-title="",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Caracol TV 
 http://170.244.209.135:8000/play/a0cz/index.m3u8
@@ -349,6 +355,12 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="" group-title="",Studio Universal (LATAM)
 https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Telemundo Acción
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Telemundo Romance
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8	
+
 #EXTINF:-1 tvg-logo="" group-title="",TLC (LATAM)
 https://streamer1.nexgen.bz/TLC/index.m3u8
 
@@ -378,7 +390,10 @@ https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.
 #EXTINF:-1 tvg-logo="" group-title="",24 Horas (Opt-2)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",24 Horas  Canarias
+#EXTINF:-1 tvg-logo="" group-title="",24 Horas (Opt-3)
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",24 Horas Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",24 Horas Catalunya
@@ -569,26 +584,44 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Al Alam
 https://live2.alalam.ir/alalam.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Al Araby
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Al Araby 2
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Arabiya Programs
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Araby TV
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Araby TV 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Al Hiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Al Iraqia News
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Al Jazeera
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Al Jazeera Live
+#EXTINF:-1 tvg-logo="" group-title="",Al Jazeera Mubasher
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Jazeera Mubasher 24
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Al Wifak
-http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
@@ -650,9 +683,6 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Tele Liban
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",UNews
-https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="",Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 
@@ -669,6 +699,18 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 
 
 /////// Arabic Entertainment
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Iraqia
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Nahar
+http://213.57.91.138:8000/play/a06m
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Nahar Drama
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alnahardrama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Al Sharqiya
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Aflam
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
@@ -828,6 +870,9 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Al Jazeera English (Opt-2)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Africanews English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
@@ -968,6 +1013,9 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="" group-title="",Reuters
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Scripps News
+https://livetv-fa.tubi.video/kgun/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",The First
 http://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8
 
@@ -1035,6 +1083,9 @@ https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",ABC (KTVO)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ABC (WMUR)
+https://livetv-fa.tubi.video/wmur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CBS (WBZ)
 http://fl41.moveonjoy.com/CBSEAST/index.m3u8
@@ -1377,6 +1428,15 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",30A TV Classic Movies
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Action Hollywood Movies (Opt-2)
+https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Action Hollywood Movies (Opt-3)
+https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
@@ -1494,6 +1554,9 @@ https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+
 /////// Comedy
 
 #EXTINF:-1 tvg-logo="" group-title="",AFV
@@ -1537,6 +1600,9 @@ https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",LOL! Standup
 https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NBC Comedy
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",People are Awesome
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
@@ -1582,6 +1648,9 @@ http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Starz Encore Westerns
 http://fl41.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+
 /////// Horror
 
 #EXTINF:-1 tvg-logo="" group-title="",American Horrors
@@ -1592,6 +1661,9 @@ https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Horror Machine
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Universal Monsters
+https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
 
 /////// Game Show
 
@@ -1834,7 +1906,7 @@ http://fl41.moveonjoy.com/TLC/index.m3u8
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",AKC TV
-https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",AKC TV Meet the Breeds
 https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
@@ -2222,6 +2294,9 @@ http://fl41.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NBA TV Canada
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",NFL Network
 http://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
 
@@ -2560,14 +2635,68 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",60 Minutes 
 https://60mi203g0hb.airspace-cdn.cbsivideo.com/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Alien Nation
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Alien Nation (Opt-2)
+https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Alfred Hitchcock Presents
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",American Crimes
+https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",American Ninja Warrior
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Bad Girls Club
+https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Bravo Vault
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Degrassi The Next Generation
 https://d365kok94jpr38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Duck Dynasty
 https://apollo.production-public.tubi.io/live/ac-duck-dynasty.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Keeping Up with the Kardashians
+https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Lassie
+https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Leave It to Beaver
+https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Little House on the Prairie
+https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Million Dollar Listing
+https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",MST3K 24/7
 https://mst3k-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Murder She Wrote
+https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Real Housewives
+https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Saved by the Bell
+https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SNL
+https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",The Lone Ranger
+https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Top Chef
+https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Z Nation 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
