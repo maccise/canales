@@ -2,10 +2,14 @@
 
 New UK:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Pitufo TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Pitufo TV 1
+http://tecnotv.club/1902FB/phpcode/distro.php?c=pitufo-tv
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Pitufo TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6611&avod=1&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1--N&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.imps.smurfs&app_store_url=https%3A%2F%2Fhtml5.ottera.tv%2F&app_domain=ottera.tv&app_name=Smurfs&custom_targeting=html5&delivery_partner=distro&custom_4=distro&player_height=720&player_width=1280&content_channel=Smurfs&content_network=Smurfs&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=ottera.tv&content_dist_name=distro&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=mx&country_region=méxico&postal_code=52140&version=12&id=37&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126120&ads.show_id=5059&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Pitufo%20TV&ads.episodetitle=Pitufo%20TV&ads.keywords=Smurf%2CSmurfs%2CPitufo&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=nAMQYeH98gG&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=distro&custom_param_5=html5
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cartoon Net
+http://tecnotv.club/1902FB/phpcode/ssiptv.php?c=ch12&token=tecnotokenplustv2102f&f=.m3u8
 
 /// END
 
