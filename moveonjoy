@@ -3,7 +3,7 @@
 Spanish:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Pitufo TV
-https://stream.ads.ottera.tv/playlist.m3u8
+http://tecnotv.club/1902FB/phpcode/distro.php?c=pitufo-tv
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cartoon Net
 http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch12.playlist.m3u8
@@ -64,9 +64,107 @@ https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Baynounah TV
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Charity TV
+https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Hala TV
+https://stream.panet.com/edge/halaTV/playlist.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Halab Today TV
+https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jordan Archive
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jordan Comedy
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jordan Drama
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jordan Kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jordan Satellite Channel
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jordan Songs
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jordan Tourism
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Majid
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Majid Al Mohandis
+https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC 1 Egypt
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC 1 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC Masr Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mohammed Abdo
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MusawaChannel
+https://pbc.furrera.ps/musawahd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",National Geographic Abu Dhabi
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Palestine Mubasher
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Palestine Satellite Channel
+https://pbc.furrera.ps/palestinehd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rotana Aflam+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roya Comedy
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roya Drama
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roya Kids
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roya Kids Originals
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roya Kitchen
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Syria One
+https://live.syriaone.tv/live/syriaone.m3u8
 
 /// END
 
