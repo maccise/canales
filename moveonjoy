@@ -64,6 +64,9 @@ https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AssyriaSat
+http://66.242.170.53/hls/live/temp/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
@@ -165,6 +168,149 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Syria One
 https://live.syriaone.tv/live/syriaone.m3u8
+
+English:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Artflix Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Autentic History
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Autentic Travel
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AWE Encore
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Baywatch
+https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BBC Earth
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BBC Lifestyle
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Biz TV
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bloomberg Originals
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bravo
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cartoon Classics
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Celebrity Scene TV
+https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CGTN Europe
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cheddar News
+https://aegis-cloudfront-1.tubi.video/27ff1997-507a-41c4-8433-08875fe5f40f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Chef Champion
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Chef Roc Show
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinevault 80s
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinevault Westerns
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Classic Cinema
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CNBC
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cold Case Files
+https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cozi TV
+http://173.225.32.123/Cozi-2358/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Deal or No Deal
+https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dove Channel
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DuckTV
+https://jmp2.uk/stvp-ESBC4700001GR
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FanDuel TV
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Fox News Channel
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Fubo Sports Network
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
+
+///
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /// END
 
