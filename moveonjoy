@@ -5,11 +5,8 @@ Spanish:
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Pitufo TV
 http://tecnotv.club/1902FB/phpcode/distro.php?c=pitufo-tv
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cartoon Net
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cartoon Network ESP
 http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch12.playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NBC Universo*
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 Arabic:
 
@@ -144,9 +141,6 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",National Geographic Abu Dhabi
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Noursat Holy Land
-https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",OTV (1080p)
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
@@ -297,35 +291,32 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playl
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ghost Dimension
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8?ads.vf=Ss0qtVPV-5e
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Go2Travel (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Go2Travel
 https://go2thls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Go USA TV (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Go USA TV
 https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Grjngo Western Movies (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Grjngo Western Movies
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Haunt TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Haunt TV
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Homes Under The Hammer (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Homes Under The Hammer
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=KMZbGFYpI_q
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",InWild (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",InWild
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",InWonder (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",InWonder
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Press TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Iunior TV (1080p)
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jail
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
@@ -333,103 +324,70 @@ https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Judge Nosey
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Just For Laughs Gags (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=MW8if26gWIm
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Knowledge Network (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Kpop Mix (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Monster Jam
 https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Movies! (480p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Movies!
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mr Bean Live Action (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mr Bean Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MS NOW (720p)
-http://41.205.93.154/MSNBC/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Wellbeing TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Nautical Channel (720p)
-https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NBC Sports NOW (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",News X (1080p)
-https://newsxott.in/hls/newsx.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",That's 90s-00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Outdoor America
-https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Outside
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8?ads.vf=BVLn-mj0VD4
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Popstar! TV (1080p) [Not 24/7]
-https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PowerNation (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PowerNation
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Pursuit Channel (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Pursuit Channel
 https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Qello Concerts by Stingray (1080p)
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roar (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RT Documentary English (1080p) [Geo-blocked]
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RVTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rvtv/index.m3u8?ads.vf=88XvPUT2P3O
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Shaun the Sheep & Friends (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Shaun the Sheep & Friends
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Stadium (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",The Graham Norton Show (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",The Graham Norton Show
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Tiny House Nation (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Tiny House Nation
 https://7e5c93fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1RpbnlIb3VzZU5hdGlvbl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TMZ (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TMZ
 https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Top Million Dollar Agent
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Trace Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=jn5xeelzYbm
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Trace Sport Stars (Australia) (1080p)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Trace Urban (Australia) (1080p)
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",VSiN (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",VSiN
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Waypoint TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Waypoint TV
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Wild TV
