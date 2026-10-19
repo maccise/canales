@@ -420,7 +420,7 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Al Jazeera
-https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Al Jazeera Mubasher
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
@@ -479,8 +479,14 @@ https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",LBC
+http://185.9.2.18/chid_327/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LBCI
+http://185.9.2.18/chid_521/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",MTV Lebanon
-https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
@@ -504,6 +510,9 @@ https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",LTV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Prime
+https://cdn.bestream.io/prime/prime.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Syria One
 https://live.syriaone.tv/live/syriaone.m3u8
@@ -777,13 +786,13 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Aghani
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Fairuz
-https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Majid Al Mohandis
 https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
@@ -810,7 +819,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 /////// World News
 
 #EXTINF:-1 tvg-logo="" group-title="",Al Jazeera English
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
