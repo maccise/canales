@@ -11,35 +11,6 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/mast
 #EXTINF:-1 tvg-logo="" group-title="",Times Square Cam
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 
-/////// Spanish News
-
-#EXTINF:-1 tvg-logo="" group-title="",24 Horas
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",CGTN Español
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",France 24 Español
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",RT Español
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Telemundo Ahora
-https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Telesur
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Telesur (Opt-2)
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",TV BRICS
-https://espbrics.mediacdn.ru:443/cdn/brics/spanish/tracks-v1a1/mono.m3u8
-
 /////// Mexico
 
 #EXTINF:-1 tvg-logo="" group-title="",ADN Noticias
@@ -87,6 +58,35 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_la
 #EXTINF:-1 tvg-logo="" group-title="",TeleFórmula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
+/////// Spanish News
+
+#EXTINF:-1 tvg-logo="" group-title="",24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",RT Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Telemundo Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Telesur (Opt-2)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TV BRICS
+https://espbrics.mediacdn.ru:443/cdn/brics/spanish/tracks-v1a1/mono.m3u8
+
 /////// LATAM Entertainment
 
 #EXTINF:-1 tvg-logo="" group-title="",Azteca A Más
@@ -103,7 +103,6 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="",Love Nature en Español
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
@@ -145,6 +144,9 @@ http://185.9.2.18/chid_391/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Al Manar
 https://edge.fastpublish.me/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Future TV
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",LBC
 http://185.9.2.18/chid_327/index.m3u8
